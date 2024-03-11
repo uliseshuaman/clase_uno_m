@@ -3,9 +3,9 @@ import { Grid } from '@mui/material'
 
 const Functions = () => {
   return (
-    <Grid item xs={8} >
-        This is Functions page
-    </Grid>
+    <div style={{marginLeft:'900px', backgroundColor: 'red', color: 'blue'}}>
+      This is function page
+    </div>
   )
 }
 

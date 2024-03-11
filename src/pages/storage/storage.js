@@ -2,9 +2,9 @@ import React from 'react'
 
 const Storage = () => {
   return (
-    <Grid item xs={8} >
-        This is Storage page
-    </Grid>
+    <div style={{marginLeft:'900px'}}>
+      This is function page
+    </div>
   )
 }
 

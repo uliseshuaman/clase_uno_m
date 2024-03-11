@@ -22,7 +22,7 @@ root.render(
         <Route path='authentication' element={<Authentication />} />   
         <Route path='database' element={<Database />} />
         <Route path='functions' element={<Functions />} />
-        <Route path='machine_learning' element={<MachineLearning />} />
+        <Route path='machine-learning' element={<MachineLearning />} />
         <Route path='others' element={<Others />} />
         <Route path='storage' element={<Storage />} />     
       </Route>
@@ -30,5 +30,7 @@ root.render(
     </Routes>
   </BrowserRouter>
 );
+
+
 
 

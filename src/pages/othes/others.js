@@ -3,10 +3,9 @@ import { Grid } from '@mui/material';
 
 const Others = () => {
   return (
-    <Grid item xs={8} >
-        thies Others page
-        This is Others page
-    </Grid>
+    <div style={{marginLeft:'900px'}}>
+      This is function page
+    </div>
   )
 }
 

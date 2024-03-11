@@ -3,9 +3,9 @@ import { Grid } from '@mui/material'
 
 const MachineLearning = () => {
   return (
-    <Grid item xs={8} >
-        Thies machine learnig page
-    </Grid>
+    <div style={{marginLeft:'900px'}}>
+    This is function page
+  </div>
   )
 }
 

@@ -3,9 +3,9 @@ import { Grid } from '@mui/material'
 
 const Database = () => {
   return (
-    <Grid item xs={8} >
-        This Database page
-    </Grid>
+    <div style={{marginLeft:'900px'}}>
+      This is function page
+    </div>
   )
 }
 
