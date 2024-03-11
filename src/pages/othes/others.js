@@ -5,6 +5,7 @@ const Others = () => {
   return (
     <Grid item xs={8} >
         thies Others page
+        This is Others page
     </Grid>
   )
 }
